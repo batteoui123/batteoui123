@@ -84,7 +84,7 @@
 ---
 
 # 🏆 Certifications
-- 🥇 **Oracle Certified Professional – Java SE 17 Developer (2022)**  
+- 🥇 **Oracle Certified Professional – Java SE 17 Developer**  
 - 📘 Excel Skills for Business – Macquarie University  
 
 
