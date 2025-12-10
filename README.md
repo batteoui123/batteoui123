@@ -94,7 +94,7 @@
 
 <p align="center">
   <a href="mailto:ousama.batteoui.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
-  <a href="https://linkedin.com/in/oussama-el-batteoui"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <a href="https://www.linkedin.com/in/el-batteoui-oussama-54b59427a/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
   <a href="https://batteoui.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" width="45"/></a>
 </p>
 
