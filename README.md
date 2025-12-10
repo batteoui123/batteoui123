@@ -83,51 +83,23 @@
 
 ---
 
+# 🏆 Certifications
+- 🥇 **Oracle Certified Professional – Java SE 17 Developer (2022)**  
+- 📘 Excel Skills for Business – Macquarie University  
 
-# 📊 GitHub Stats (Premium Style)
+
+---
+
+# 🤝 Let's Connect
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=batteoui123&show_icons=true&theme=react&hide_border=true&bg_color=00000000" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=batteoui123&theme=react&hide_border=true&background=00000000" />
+  <a href="mailto:ousama.batteoui.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+  <a href="https://linkedin.com/in/oussama-el-batteoui"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <a href="https://batteoui.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" width="45"/></a>
 </p>
+
+---
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batteoui123&layout=compact&theme=react&hide_border=true&bg_color=00000000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0072ff,100:00c6ff&section=footer"/>
 </p>
-
----
-
-
-### 🏆 Trophées GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=votre-username&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophées"/>
-</div>
-
----
-
-### 📈 Graphe d'Activité
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=votre-username&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
-
----
-
-<div align="center">
-  
-### 📫 Contactez-moi
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre-email@gmail.com)
-
----
-
-⭐ **N'hésitez pas à star mes repos si vous les trouvez utiles !**
-
-![Visitor Count](https://komarev.com/ghpvc/?username=votre-username&color=22d3ee&style=flat-square)
-
-</div>
